@@ -32,6 +32,7 @@ A comprehensive collection of ML/DL interview questions with answers, small data
 | 22 | [Regularization & Optimization](./22_Regularization_Optimization/) | Intermediate |
 | 23 | [Statistics & Probability](./23_Statistics_Probability/) | Beginner |
 | 24 | [MLOps & Deployment](./24_MLOps/) | Advanced |
+| 25 | [End-to-End Projects](./25_Projects/) | All Levels |
 
 ---
 
